@@ -16,9 +16,14 @@ external applications. The exported GPX files contain all the necessary informat
 applications.
 
 Technologies Used
+
 Backend:
+
   Java: The backend server is implemented using Java, providing the business logic and handling requests from the frontend.
   
 Frontend:
+
   Java Android Studio: The frontend mobile application is developed using Java in Android Studio, targeting Android devices.
+  
   Google Maps API: We integrate the Google Maps API to display the user's location, track their activities, and show routes.
+  
