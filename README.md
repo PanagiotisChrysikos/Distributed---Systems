@@ -11,8 +11,8 @@ Achievements and Challenges: Users can view their statistics and compare them wi
 
 Importing GPX Files: Users can import GPX files recorded from other devices or applications into our tracking app. This allows them to analyze and store their past activities within our system. The imported GPX files are parsed and the relevant data such as route, distance, duration, and elevation are extracted.
 
-Exporting GPX Files: Users can export their activity data in the form of GPX files. This allows them to share their activities with others or use the data in       
-external applications. The exported GPX files contain all the necessary information about the activity, making it compatible with various GPS and tracking     
+Exporting GPX Files: Users can export their activity data in the form of GPX files. This allows them to share their activities with others or use the data in
+external applications. The exported GPX files contain all the necessary information about the activity, making it compatible with various GPS and tracking
 applications.
 
 Technologies Used
