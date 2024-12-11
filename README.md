@@ -1,5 +1,7 @@
 # Distributed---Systems
+
 Distributed Systems Tracking App
+
 This project is a distributed systems tracking application similar to Strava. It consists of a backend server implemented in Java and a frontend mobile application developed using Java in Android Studio.
 
 Features
